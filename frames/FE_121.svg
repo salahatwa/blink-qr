@@ -1,0 +1,7 @@
+<div id="FE_121" data-width="0.87" data-left="0.06" data-top="0.06">
+    <svg id="FE_121_svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path class="frame-container" d="M52 258C52 136.497 150.497 38 272 38H728C849.503 38 948 136.497 948 258V662C948 827.685 813.685 962 648 962H52V258Z" fill="#333333"/>
+        <path class="frame-content" d="M79 265C79 154.543 168.543 65 279 65H721C831.457 65 921 154.543 921 265V503C921 653.221 799.221 775 649 775H79V265Z" fill="white"/>
+        <g class="addsvg"></g>
+    </svg>
+</div>

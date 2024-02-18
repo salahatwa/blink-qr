@@ -1,0 +1,13 @@
+<div id="FE_117" data-width="0.87" data-left="0.06" data-top="0.06">
+    <svg id="FE_117_svg" width="1004" height="1000" viewBox="0 0 1004 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path class="frame-container" d="M5.29957 239.937C-1.41857 233.219 -1.43284 222.311 5.44399 215.755C69.6108 154.585 144.568 105.765 226.562 71.802C313.858 35.643 407.421 17.0323 501.908 17.0323C596.396 17.0323 689.959 35.6431 777.254 71.8021C859.249 105.765 934.206 154.586 998.373 215.755C1005.25 222.311 1005.24 233.219 998.517 239.937L514.072 724.382C507.354 731.1 496.462 731.1 489.744 724.382L5.29957 239.937Z" fill="#333333"/>
+        <path class="frame-content" d="M58.0138 249.223C51.2956 242.505 51.2799 231.594 58.1748 225.058C115.407 170.8 182.142 127.465 255.091 97.248C333.342 64.8355 417.21 48.153 501.908 48.153C586.606 48.1531 670.475 64.8356 748.726 97.2481C821.675 127.465 888.41 170.801 945.642 225.058C952.537 231.595 952.521 242.505 945.803 249.223L514.072 680.953C507.354 687.671 496.462 687.671 489.744 680.953L58.0138 249.223Z" fill="white"/>
+        <circle class="frame-container" cx="502" cy="873" r="127" fill="#333333"/>
+        <rect class="frame-container" x="157.5" y="810.5" width="688" height="125" rx="47.5" fill="#333333" stroke="white" stroke-width="5"/>
+        <path class="frame-content" d="M663.02 870.346C669.656 864.818 678.021 861.791 686.659 861.791C695.296 861.791 703.661 864.818 710.298 870.346" stroke="white" stroke-width="6.71564" stroke-linecap="round" stroke-linejoin="round"/>
+        <path class="frame-content" d="M651 858.422C660.813 849.773 673.445 845 686.526 845C699.607 845 712.239 849.773 722.051 858.422" stroke="white" stroke-width="6.71564" stroke-linecap="round" stroke-linejoin="round"/>
+        <path class="frame-content" d="M674.871 882.301C678.28 879.879 682.358 878.578 686.54 878.578C690.721 878.578 694.799 879.879 698.208 882.301" stroke="white" stroke-width="6.71564" stroke-linecap="round" stroke-linejoin="round"/>
+        <path class="frame-content" d="M686.525 895.361H686.558" stroke="white" stroke-width="6.71564" stroke-linecap="round" stroke-linejoin="round"/>
+        <g class="addsvg"></g>
+    </svg>
+</div>

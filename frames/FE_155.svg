@@ -1,0 +1,11 @@
+<div id="FE_155" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_155_svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" xml:space="preserve" width="666.66669" height="666.66669" viewBox="0 0 666.66669 666.66669" sodipodi:docname="general-qr-code-frame-27.eps">
+    <g id="g10" inkscape:groupmode="layer" inkscape:label="ink_ext_XXXXXX" transform="matrix(1.3333333,0,0,-1.3333333,0,666.66667)">
+      <g id="g12" transform="scale(0.1)">
+        <path class="frame-content" d="M 3622.29,571.699 H 1372.71 c -169.94,0 -307.71,137.77 -307.71,307.711 v 3327.88 c 0,169.94 137.77,307.71 307.71,307.71 H 3622.29 C 3792.23,4515 3930,4377.23 3930,4207.29 V 879.41 c 0,-169.941 -137.77,-307.711 -307.71,-307.711 z" style="fill:none;stroke:#2a2a2b;stroke-width:68.7331;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path14" />
+        <path class="frame-container" d="M 3642.21,850 H 1352.79 c -77.48,0 -140.29,62.809 -140.29,140.289 v 349.421 c 0,77.48 62.81,140.29 140.29,140.29 h 2289.42 c 77.48,0 140.29,-62.81 140.29,-140.29 V 990.289 C 3782.5,912.809 3719.69,850 3642.21,850" style="fill:#2a2a2b;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path16" />
+      </g>
+    </g>
+    <g class="addsvg"></g>
+  </svg>
+</div>

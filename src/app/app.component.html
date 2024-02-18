@@ -1,0 +1,54 @@
+<h2>blinked-qr</h2>
+<h2>Author: DaiDH</h2>
+
+<!-- <blinked-qr [template]="'bitcoin'" [data]="'blinked-qr'" [width]="200" [height]="200" [image]="
+'https://www.baeldung.com/wp-content/themes/baeldung/favicon/apple-touch-icon-57x57.png'
+">
+  </blinked-qr> -->
+
+<blinked-qr #qrcode [template]="'default'" [data]="'Hà Nội, Việt Nam'" [width]="200" [height]="200" [margin]="3"
+ [image]="'https://www.baeldung.com/wp-content/themes/baeldung/favicon/apple-touch-icon-57x57.png'"
+ [backgroundOptions]="{ color: '#fff0' }" [frameOptions]="{
+    style: 'FE_020',
+    height: 400,
+    width: 325,
+    x: 88,
+    y: 410,
+    background: '#ffffff',
+    texts: [{
+      textContent: 'Create 2022',
+      fill: '#4d4d4d',
+      x: '31%',
+      y: '58%',
+      fontSize: '15pt',
+      fontFamily: 'cursive'
+    },{
+      textContent: 'Author: DaiDH',
+      fill: '#4d4d4d',
+      x: '29%',
+      y: '90%',
+      fontSize: '15pt',
+      fontFamily: 'cursive'
+    }]
+  }" [dotsOptions]="{color: '#4a4a4a'}"></blinked-qr>
+
+<br />
+<br />
+
+<button (click)="onUpdate(qrcode)">Update</button> |
+<button (click)="onDownload(qrcode)">Download</button>
+
+<h2><a href="https://github.com/id1945/blinked-qr/wiki" target="_blank">Rules for QRCodes</a></h2>
+
+
+
+<!-- license -->
+<p class="center"><a href="https://github.com/id1945/ngx-scanner-face/blob/master/LICENSE">Beerware License</a></p>
+
+
+<!-- <app-frame-edit></app-frame-edit>
+
+<app-frames></app-frames>
+<app-templates></app-templates> -->
+<!-- copyright -->
+<p class="center">Copyright (c) 2021 DaiDH</p>

@@ -1,0 +1,10 @@
+<div id="FE_095" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_095_svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect class="frame-container" x="197" width="608" height="999" rx="37" fill="#333333" />
+    <rect class="frame-content" x="216" y="19" width="568" height="961" rx="37" fill="white" />
+    <rect class="frame-content" x="226" y="164" width="549" height="549" rx="8.42025" fill="white" />
+    <path class="frame-container" d="M344 0H658V33.5C658 44.8218 648.822 54 637.5 54H364.5C353.178 54 344 44.8218 344 33.5V0Z" fill="#333333" />
+    <circle class="frame-container" cx="501" cy="894" r="66" fill="#333333" />
+    <g class="addsvg"></g>
+  </svg>
+</div>

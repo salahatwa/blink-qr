@@ -1,0 +1,12 @@
+<div id="FE_130" data-width="0.87" data-left="0.06" data-top="0.06">
+    <svg id="FE_130_svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect class="frame-container" y="140" width="500" height="720" rx="20" fill="#333333"/>
+        <rect class="frame-container" x="500" y="140" width="500" height="720" rx="20" fill="#333333"/>
+        <rect class="frame-content" x="524" y="274" width="451" height="451" rx="6.57184" fill="white"/>
+        <line class="frame-content" x1="73" y1="432.5" x2="426" y2="432.5" stroke="white" stroke-width="3"/>
+        <line class="frame-content" x1="73" y1="531.5" x2="426" y2="531.5" stroke="white" stroke-width="3"/>
+        <line class="frame-content" x1="73" y1="636.5" x2="426" y2="636.5" stroke="white" stroke-width="3"/>
+        <rect class="frame-content" x="496" y="140" width="8" height="720" fill="white"/>
+        <g class="addsvg"></g>
+    </svg>
+</div>

@@ -1,0 +1,12 @@
+<div id="FE_154" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_154_svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" xml:space="preserve" width="666.66669" height="666.66669" viewBox="0 0 666.66669 666.66669" sodipodi:docname="general-qr-code-frame-26.eps">
+    <g id="g10" inkscape:groupmode="layer" inkscape:label="ink_ext_XXXXXX" transform="matrix(1.3333333,0,0,-1.3333333,0,666.66667)">
+      <g id="g12" transform="scale(0.1)">
+        <path class="frame-container" d="m 1461.18,4275.88 h 2244.7 c 184.53,0 334.12,-149.59 334.12,-334.12 V 2767.27 c 0,-60.87 -49.34,-110.21 -110.21,-110.21 H 1237.27 c -60.87,0 -110.21,49.34 -110.21,110.21 v 1174.49 c 0,184.53 149.59,334.12 334.12,334.12" style="fill:#2a2a2b;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path14" />
+        <path class="frame-content" d="M 3657.17,584.422 H 1509.68 c -198.13,0 -358.75,160.617 -358.75,358.75 V 3090.66 c 0,198.14 160.62,358.76 358.75,358.76 h 2147.49 c 198.14,0 358.76,-160.62 358.76,-358.76 V 943.172 c 0,-198.133 -160.62,-358.75 -358.76,-358.75" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path16" />
+        <path class="frame-container" d="M 3657.17,584.422 H 1509.68 c -198.13,0 -358.75,160.617 -358.75,358.75 V 3090.66 c 0,198.14 160.62,358.76 358.75,358.76 h 2147.49 c 198.14,0 358.76,-160.62 358.76,-358.76 V 943.172 c 0,-198.133 -160.62,-358.75 -358.76,-358.75 z" style="fill:none;stroke:#2a2a2b;stroke-width:50;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path18" />
+      </g>
+    </g>
+    <g class="addsvg"></g>
+  </svg>
+</div>

@@ -1,0 +1,9 @@
+<div id="FE_104" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_104_svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle class="frame-container" cx="535.083" cy="499.918" r="457.918" fill="#333333"/>
+    <circle class="frame-content" cx="502.981" cy="499.53" r="408.801" stroke="white" stroke-width="26.2994"/>
+    <circle class="frame-container" cx="145.232" cy="671.638" r="144.26" fill="#333333" stroke="white" stroke-width="10.0556"/>
+    <rect class="frame-content" x="307.668" y="250.848" width="454.051" height="454.051" rx="16.2437" fill="white"/>
+    <g class="addsvg"></g>
+  </svg>
+</div>

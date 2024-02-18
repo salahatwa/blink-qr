@@ -1,0 +1,9 @@
+<div id="FE_092" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_092_svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <path class="frame-container" d="M131 849.304C131 843.377 135.327 838.338 141.185 837.442L898.185 721.614C905.451 720.502 912 726.125 912 733.476V988C912 994.627 906.627 1000 900 1000H143C136.373 1000 131 994.627 131 988V849.304Z" fill="#333333" />
+    <path class="frame-container" fill-rule="evenodd" clip-rule="evenodd" d="M151 0C139.954 0 131 8.9543 131 20V521V525V775.524C131 782.875 137.549 788.498 144.815 787.386L901.815 671.558C907.673 670.662 912 665.623 912 659.696V525V521V20C912 8.95431 903.046 0 892 0H151Z" fill="#333333" />
+    <path class="frame-content" fill-rule="evenodd" clip-rule="evenodd" d="M197 40C185.954 40 177 48.9543 177 60V501.012C177 501.021 177 501.031 177 501.041V722.523C177 729.874 183.549 735.497 190.815 734.385L855.815 632.634C861.673 631.738 866 626.699 866 620.772V503.156V501.041V60C866 48.9543 857.046 40 846 40H197Z" fill="white" />
+    <rect class="frame-content" x="246" y="65" width="551" height="551" rx="4" fill="white" />
+    <g class="addsvg"></g>
+  </svg>
+</div>

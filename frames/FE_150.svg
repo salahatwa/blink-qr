@@ -1,0 +1,13 @@
+<div id="FE_150" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_150_svg" xmlns="http://www.w3.org/2000/svg" width="550" height="1000" viewBox="0 0 550 1000" fill="none">
+    <g clip-path="url(#clip0_237:418)">
+      <rect class="frame-container" x="275" y="106" width="390.323" height="390.323" rx="19" transform="rotate(45 275 106)" fill="#333333" />
+      <path class="frame-container" fill-rule="evenodd" clip-rule="evenodd" d="M7 417.072L7 875.999C7 880.97 11.0295 884.999 16 884.999H533C537.971 884.999 542 880.97 542 875.999V418.617C541.367 419.502 540.653 420.347 539.858 421.142L289.142 671.858C281.332 679.668 268.668 679.668 260.858 671.858L10.1419 421.142C8.89582 419.896 7.8485 418.526 7 417.072Z" fill="#333333" />
+      <rect class="frame-content" x="43.5" y="716.5" width="463" height="124" rx="8.5" stroke="white" stroke-width="3" />
+      <path class="frame-content" d="M458.5 748H420C417.239 748 415 750.239 415 753V805C415 807.761 417.239 810 420 810H470.5C473.261 810 475.5 807.761 475.5 805V782" stroke="white" stroke-width="5" stroke-linecap="round" />
+      <path class="frame-content" d="M437.5 778.646L445.793 786.939C446.183 787.33 446.817 787.33 447.207 786.939L473.646 760.5" stroke="white" stroke-width="5" stroke-linecap="round" />
+      <rect class="frame-content" x="25.7002" y="381.566" width="351.95" height="351.95" rx="7.03901" transform="rotate(-45 25.7002 381.566)" fill="white" />
+    </g>
+    <g class="addsvg"></g>
+  </svg>
+</div>

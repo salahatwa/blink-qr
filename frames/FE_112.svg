@@ -1,0 +1,14 @@
+<div id="FE_112" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_112_svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect class="frame-container" x="97" width="806" height="806" rx="40" fill="#333333" />
+    <circle class="frame-content" cx="500" cy="403" r="344" fill="white" />
+    <rect class="frame-container" x="657.172" y="136.807" width="157.976" height="28.21" rx="12.896" transform="rotate(-45 657.172 136.807)" fill="#333333" stroke="white" stroke-width="6" />
+    <rect class="frame-container" x="333.266" y="662.855" width="157.976" height="28.21" rx="12.896" transform="rotate(135 333.266 662.855)" fill="#333333" stroke="white" stroke-width="6" />
+    <rect class="frame-container" x="699.344" y="178.98" width="233.74" height="28.21" rx="12.896" transform="rotate(-45 699.344 178.98)" fill="#333333" stroke="white" stroke-width="6" />
+    <rect class="frame-container" x="291.09" y="620.68" width="233.74" height="28.21" rx="12.896" transform="rotate(135 291.09 620.68)" fill="#333333" stroke="white" stroke-width="6" />
+    <rect class="frame-container" x="741.52" y="221.156" width="157.976" height="28.21" rx="12.896" transform="rotate(-45 741.52 221.156)" fill="#333333" stroke="white" stroke-width="6" />
+    <rect class="frame-container" x="248.914" y="578.506" width="157.976" height="28.21" rx="12.896" transform="rotate(135 248.914 578.506)" fill="#333333" stroke="white" stroke-width="6" />
+    <rect class="frame-container" x="97" y="829" width="806" height="171" rx="30" fill="#333333" />
+    <g class="addsvg"></g>
+  </svg>
+</div>

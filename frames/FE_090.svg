@@ -1,0 +1,8 @@
+<div id="FE_090" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_090_svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect class="frame-container" x="105" y="1" width="780" height="1000" rx="71" fill="#333333" />
+    <path class="frame-content" fill-rule="evenodd" clip-rule="evenodd" d="M207 32C167.788 32 136 63.7878 136 103V677C136 716.212 167.788 748 207 748H438.579L499.808 809.229C504.884 814.306 513.116 814.306 518.192 809.229L579.421 748H783C822.212 748 854 716.212 854 677V103C854 63.7878 822.212 32 783 32H207Z" fill="white" />
+    <rect class="frame-content" x="169" y="55" width="661" height="661" rx="9.6319" fill="white" />
+    <g class="addsvg"></g>
+  </svg>
+</div>

@@ -1,0 +1,9 @@
+<div id="FE_123" data-width="0.87" data-left="0.06" data-top="0.06">
+    <svg id="FE_123_svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path class="frame-container" d="M937 232.489V29C937 27.3431 935.657 26 934 26H66C64.3431 26 63 27.3432 63 29V897C63 898.657 64.3432 900 66 900H934C935.657 900 937 898.657 937 897V693.511" stroke="#333333" stroke-width="50" stroke-linecap="round"/>
+        <path class="frame-container" fill-rule="evenodd" clip-rule="evenodd" d="M979 345H964V349C964 351.209 962.209 353 960 353H912C909.791 353 908 351.209 908 349V345H893C886.925 345 882 349.925 882 356V570C882 576.075 886.925 581 893 581H979C985.075 581 990 576.075 990 570V356C990 349.925 985.075 345 979 345ZM893 337C882.507 337 874 345.507 874 356V570C874 580.493 882.507 589 893 589H979C989.493 589 998 580.493 998 570V356C998 345.507 989.493 337 979 337H893ZM936 558C930.477 558 926 562.477 926 568C926 573.523 930.477 578 936 578C941.523 578 946 573.523 946 568C946 562.477 941.523 558 936 558Z" fill="#333333"/>
+        <rect class="frame-content" x="144" y="73" width="712" height="712" rx="6.85356" fill="white"/>
+        <rect class="frame-container" x="159" y="822" width="682" height="156" rx="67" fill="white" stroke="#333333" stroke-width="25"/>
+        <g class="addsvg"></g>
+    </svg>
+</div>

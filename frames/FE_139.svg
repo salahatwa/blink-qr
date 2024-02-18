@@ -1,0 +1,13 @@
+<div id="FE_139" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_139_svg" xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none">
+    <rect class="frame-content" x="90.5" y="34.5" width="799" height="156" rx="78" fill="white" stroke="black" stroke-width="11" />
+    <circle class="frame-content" cx="493" cy="603" r="388.5" fill="white" stroke="#333333" stroke-width="17" />
+    <ellipse class="frame-content" cx="773" cy="147" rx="53" ry="21" fill="white" stroke="#333333" stroke-width="8" />
+    <ellipse class="frame-content" cx="773" cy="124" rx="53" ry="21" fill="white" stroke="#333333" stroke-width="8" />
+    <ellipse class="frame-content" cx="773" cy="101" rx="53" ry="21" fill="white" stroke="#333333" stroke-width="8" />
+    <ellipse class="frame-content" cx="773" cy="78" rx="53" ry="21" fill="white" stroke="#333333" stroke-width="8" />
+    <path class="frame-content" d="M720 76L720 146" stroke="#333333" stroke-width="8" />
+    <path class="frame-content" d="M826 76V146" stroke="#333333" stroke-width="8" />
+    <g class="addsvg"></g>
+  </svg>
+</div>
